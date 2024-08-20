@@ -40,9 +40,7 @@ Implement two `Deal` instance methods:
 * Method `CRMDealsService.get_list()` should get data from `deals` endpoint and return as a list of `Deal` objects. You should use endpoint without trailing slash.
 
 ## Environment setup
-
 To execute the unit tests, use:
-
 ```
 pip install -q -e . && python3 setup.py pytest
 ```
